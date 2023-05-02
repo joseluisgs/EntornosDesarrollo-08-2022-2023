@@ -1,0 +1,3 @@
+- https://kotlinlang.org/docs/mixing-java-kotlin-intellij.html#adding-java-source-code-to-an-existing-kotlin-project
+- https://kotlinlang.org/docs/java-interop.html 
+- https://kotlinlang.org/docs/java-to-kotlin-interop.html
